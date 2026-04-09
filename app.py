@@ -1,11 +1,3 @@
-# -- coding: utf-8 --
-"""
-Created on Tue May  6 20:10:20 2025
-
-@author: Asus
-"""
-
-
 import streamlit as st
 import matplotlib.pyplot as plt
 import cv2
